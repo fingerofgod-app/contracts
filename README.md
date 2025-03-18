@@ -17,10 +17,9 @@ We remain committed to delivering an open, free, and innovative protocol for eve
 | **fHOG**                  | [contracts/token/FogElasticToken.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/token/FogElasticToken.sol)                                          | [0xafde634d6f38fc59cf94fb9e24a91e31ee6aa5e0](https://sonicscan.org/address/0xafde634d6f38fc59cf94fb9e24a91e31ee6aa5e0)  |
 | **fSNAKE**                | [contracts/token/FogElasticToken.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/token/FogElasticToken.sol)                                          | [0x11F5cd8aE75c2f498DE4b874058c489AE473E488](https://sonicscan.org/address/0x11F5cd8aE75c2f498DE4b874058c489AE473E488)  |
 | **FOG**                   | [contracts/token/FOG.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/token/FOG.sol)                                                                 | [0xB144E5f84BbA5b2b4Ea2fBa9d7364E8990FC7216](https://sonicscan.org/address/0xB144E5f84BbA5b2b4Ea2fBa9d7364E8990FC7216)  |
-| **GenesisRewardsPool**    | [contracts/distribution/FogRewardPool.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/distribution/FogRewardPool.sol)                                  | [0x5F59CABC5b6BB9B391a033d712afA1b1D90CE62B](https://sonicscan.org/address/0x5F59CABC5b6BB9B391a033d712afA1b1D90CE62B)  |
 | **FogRewardPool**         | [contracts/distribution/FogRewardPool.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/distribution/FogRewardPool.sol)                                  | [0x9112C2AE5C729bEE9a5C12CE1ec64073d812ef5A](https://sonicscan.org/address/0x9112C2AE5C729bEE9a5C12CE1ec64073d812ef5A)  |
 | **Treasury**              | [contracts/Treasury.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/Treasury.sol)                                                                    | [0x426E7741AE4544A6Bb5F0AA3Ad6d9623813bFFF7](https://sonicscan.org/address/0x426E7741AE4544A6Bb5F0AA3Ad6d9623813bFFF7)  |
-| **Boardroom**             | [contracts/Treasury.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/Treasury.sol)                                                                    | [0x5D26f9C6B02caF37a6C3D6d10B590e91e6ebD712](https://sonicscan.org/address/0x5D26f9C6B02caF37a6C3D6d10B590e91e6ebD712)  |
+| **Boardroom**             | [contracts/Boardroom.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/Boardroom.sol)                                                                    | [0x5D26f9C6B02caF37a6C3D6d10B590e91e6ebD712](https://sonicscan.org/address/0x5D26f9C6B02caF37a6C3D6d10B590e91e6ebD712)  |
 | **fHOG Oracle**           | [contracts/oracle/PoolOracle.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/oracle/PoolOracle.sol)                                                    | [0x440B27C3Ac56b725a2f089a48D6fdA5550c46164](https://sonicscan.org/address/0x440B27C3Ac56b725a2f089a48D6fdA5550c46164)  |
 | **fSNAKE Oracle**         | [contracts/oracle/PoolOracle.sol](https://github.com/fingerofgod-app/contracts/blob/main/contracts/oracle/PoolOracle.sol)                                                    | [0x69aE3A9CEb8d9Bb9e99dDCe6bAA85Cc8D84898E8](https://sonicscan.org/address/0x69aE3A9CEb8d9Bb9e99dDCe6bAA85Cc8D84898E8)  |
 
@@ -28,7 +27,7 @@ We remain committed to delivering an open, free, and innovative protocol for eve
 
 - **fogHOG & fogSNAKE:** Pegged tokens designed to mirror the value of HOG and SNAKE respectively, featuring elastic supply mechanics.
 - **FOG (Governance Token):** Empowers holders to influence protocol parameters and earn rewards through the Pantheon.
-- **GenesisRewardsPool & FogRewardPool:** Facilitate initial token distribution and ongoing yield opportunities.
+- **FogRewardPool:** Facilitate ongoing yield opportunities.
 - **Treasury & Boardroom:** Work together to maintain price stability, direct expansions/contractions, and distribute rewards.
 - **Oracles:** fHOG and fSNAKE oracles provide reliable pricing data to support our peg stability mechanisms.
 
